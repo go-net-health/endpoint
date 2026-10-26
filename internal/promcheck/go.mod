@@ -6,7 +6,7 @@ require (
 	github.com/go-net-health/endpoint v0.1.0
 	github.com/prometheus/client_model v0.6.3
 	github.com/prometheus/common v0.72.1
-	github.com/prometheus/prometheus v0.315.0
+	github.com/prometheus/prometheus v0.315.1
 )
 
 require (
